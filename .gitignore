@@ -1,4 +1,7 @@
 *.egg-info
 pyimport.pem
+pyimport.ppk
+log.txt
+\#*\#
 *.pyc
 *~

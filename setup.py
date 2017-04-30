@@ -5,7 +5,7 @@ setup(
     name='pyimport',
     version='0.1',
     description='pyimport',
-    url='http://github.com/thebjorn/pyimport',
+    url='https://github.com/thebjorn/pyimport.git,
     author='thebjorn',
     license='MIT',
     packages=['src'],
