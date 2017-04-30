@@ -9,5 +9,10 @@ setup(
     author='thebjorn',
     license='MIT',
     packages=['src'],
+    entry_points={
+        'console_scripts': """
+            do_daily = src.do_daily:do_daily_fn
+        """
+    },
     zip_safe=False
 )
