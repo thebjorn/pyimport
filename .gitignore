@@ -1,0 +1,4 @@
+*.egg-info
+pyimport.pem
+*.pyc
+*~
